@@ -1,0 +1,4 @@
+([('convertor_gui',
+   '/Users/hyunkwon/Desktop/code/blog code/excel '
+   'csv->xlsx/pdftodoc/dist/convertor_gui',
+   'EXECUTABLE')],)
