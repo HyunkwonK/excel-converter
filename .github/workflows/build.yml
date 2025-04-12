@@ -23,12 +23,12 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pyinstaller pdf2docx docx2pdf  # 여기에 필요한 패키지 추가
+        pip install pyinstaller pdf2docx PyQt5 pynput selenium 
 
     - name: Build EXE
       run: |
         
-        pyinstaller --onefile --noconsole stockreturn/stock.py
+        pyinstaller --onefile --noconsole repeat/repeat.py
       #  여기 파일명을 바꿔주면 다른 파일도 빌드 가능함!
         # 예: 만약 `subfolder/my_tool.py` 라는 파일을 EXE로 만들고 싶다면:
         # pyinstaller --onefile --noconsole subfolder/my_tool.py

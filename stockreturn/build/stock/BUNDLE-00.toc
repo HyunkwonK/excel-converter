@@ -1,0 +1,4 @@
+([('stock',
+   '/Users/hyunkwon/Desktop/code/blog code/excel '
+   'csv->xlsx/stockreturn/dist/stock',
+   'EXECUTABLE')],)
