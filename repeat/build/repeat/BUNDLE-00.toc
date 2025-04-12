@@ -1,0 +1,3 @@
+([('repeat',
+   '/Users/hyunkwon/Desktop/code/blog code/excel csv->xlsx/repeat/dist/repeat',
+   'EXECUTABLE')],)
